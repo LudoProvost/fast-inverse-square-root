@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FastInvSqrt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FastInvSqrt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder_32b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder_32b
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FastInvSqrt_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FastInvSqrt_TB

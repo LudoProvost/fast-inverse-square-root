@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FastInvSqrt.srcs/sources_1/new/FastInvSqrt.v" \
+"../../../../FastInvSqrt.srcs/sources_1/new/FullAdder.v" \
+"../../../../FastInvSqrt.srcs/sources_1/new/FullAdder_32b.v" \
+"../../../../FastInvSqrt.srcs/sources_1/new/FastInvSqrt_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FastInvSqrt.v,1723056648,verilog,,C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder.v,,FastInvSqrt,,,,,,,,
+C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FastInvSqrt_TB.v,1723055867,verilog,,,,FastInvSqrt_TB,,,,,,,,
+C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder.v,1723057285,verilog,,C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder_32b.v,,FullAdder,,,,,,,,
+C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FullAdder_32b.v,1723055254,verilog,,C:/Users/Ludovic Provost/Desktop/Projects JAN2024/FastInvSqrt/FastInvSqrt.srcs/sources_1/new/FastInvSqrt_TB.v,,FullAdder_32b,,,,,,,,
